@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co.com/YWSBBk2/1.jpg",
+        "title": "The Evolution of Web Development",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co.com/c3ZwyF1/boy1.png",
+        "posted_date": "2024-10-20",
+        "reading_time": "5 min",
+        "hashtags": ["#WebDevelopment", "#HTML", "#CSS", "#JavaScript", "#TechTrends"]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co.com/ctHGkww/2.png",
+        "title": "Mastering CSS for Responsive Design",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co.com/cwLSWrq/boy2.jpg",
+        "posted_date": "2024-10-18",
+        "reading_time": "8 min",
+        "hashtags": ["#CSS", "#ResponsiveDesign", "#WebDesign", "#Frontend"]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co.com/h2sNCWz/3.png",
+        "title": "JavaScript: Beyond Basics",
+        "author": "Emily Davis",
+        "author_img": "https://i.ibb.co.com/5k99M3P/girl1.jpg",
+        "posted_date": "2024-10-15",
+        "reading_time": "12 min",
+        "hashtags": ["#JavaScript", "#Coding", "#Frontend", "#AdvancedJS"]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co.com/8bYCHhy/4.jpg",
+        "title": "Designing Minimalist User Interfaces",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co.com/LhB1v37/girl2.jpg",
+        "posted_date": "2024-10-10",
+        "reading_time": "7 min",
+        "hashtags": ["#UI", "#Minimalism", "#WebDesign", "#UserExperience"]
+    }
+]
